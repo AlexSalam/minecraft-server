@@ -1,0 +1,2 @@
+[14:16:31] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[14:16:31] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
